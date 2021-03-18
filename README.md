@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I'm JinaHong majoring in computer science and engineering in Korea!
 <!--
 **kaworu7405/kaworu7405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
